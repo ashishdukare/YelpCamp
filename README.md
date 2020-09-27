@@ -1,4 +1,4 @@
-# EndSem Trips
+# YelpCamp
 Stack - 
 Database : MongoDB
 Framework : Express, NodeJS
